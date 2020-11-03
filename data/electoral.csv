@@ -1,4 +1,4 @@
-state,
+state,value
 Alabama,9
 Alaska,3
 Arizona,11
@@ -12,7 +12,7 @@ Florida,29
 Georgia,16
 Hawaii,4
 Idaho,4
-Illinois,4
+Illinois,20
 Indiana,11
 Iowa,6
 Kansas,6
