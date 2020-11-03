@@ -6,4 +6,6 @@ if __name__ == "__main__":
     for i in range(1000000):
         winner = sim.run("Donald Trump")
         d[winner] += 1
+        if i % 10000 == 1:
+            print(f"Intermediate {d}")
     print(d)
